@@ -1,1 +1,3 @@
 oyun hikayesini yazıyorum.
+
+Levellar 35 adet adet olacak ilk versiyonda.

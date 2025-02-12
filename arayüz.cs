@@ -1,0 +1,1 @@
+arayüz tasarlandı.Güzel bir arayüz yapıldı.
